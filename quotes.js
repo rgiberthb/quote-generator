@@ -10,6 +10,14 @@ const quotes = [
   {
     text: "La innovación distingue a un líder de un seguidor.",
     author: "Steve Jobs"
+  },
+  {
+    text: "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+    author: "Albert Schweitzer"
+  },
+  {
+    text: "La única manera de hacer un gran trabajo es amar lo que haces.",
+    author: "Steve Jobs"
   }
 ];
 
