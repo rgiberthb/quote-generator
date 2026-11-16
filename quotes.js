@@ -18,6 +18,10 @@ const quotes = [
   {
     text: "La única manera de hacer un gran trabajo es amar lo que haces.",
     author: "Steve Jobs"
+  },
+  {
+    text: "La excelencia no es un acto, sino un hábito.",
+    author: "Aristóteles"
   }
 ];
 
